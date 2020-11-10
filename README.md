@@ -1,4 +1,4 @@
-<h1>Privilage Escalator 💀</h1>
+<h1>Privilege Escalator 💀</h1>
 <center><a href="https://github.com/predator0x300/exploitbuffer"><img src="https://img.shields.io/badge/Supported%20OS-Linux%2FWindows%2FmacOS-brightgreengreen.svg" alt="Build" data-canonical-src="https://img.shields.io/badge/Supported%20OS-Linux%2FWindows%2FmacOS-brightgreengreen.svg" style="max-width:100%;"></a></center>
 <p align="center">
   <b> Follow on Social Media Platforms </b>
